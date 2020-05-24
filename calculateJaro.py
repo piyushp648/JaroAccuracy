@@ -121,7 +121,9 @@ if __name__ == "__main__":
     # getting list of files from actual dir only since
     # there's a file in observed corresponding to each file
     # in actual directory
-    accuracy = []
+    # accuracy = dict()
+
+    output_file = open("accuracy.txt", "w+")
 
     for file in files:
         if not file.endswith(".txt"):
@@ -132,12 +134,13 @@ if __name__ == "__main__":
         s1 = open(file1).read().replace('\n', ' ').replace('\r', '')
         s2 = open(file2).read().replace('\n', ' ').replace('\r', '')
 
-        accuracy.append(jaro_Winkler(s1, s2))
+        accuracy = jaro_Winkler(s1, s2)
+        output_file.write(file.split('.')[0] + " : " + str("{:.4f}".format(accuracy)))
 
-    output_file = open("accuracy.txt", "w+")
-    for item in accuracy:
-        output_file.write(str(item) + "\n")
     output_file.close()
+
+    # for item in accuracy:
+    #     output_file.write(str(item) + "\n")
     # Print Jaro-Winkler Similarity of two strings
 
 
