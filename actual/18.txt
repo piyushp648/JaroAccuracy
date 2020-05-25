@@ -1,0 +1,12 @@
+Breaeds
+Atta roti	15
+Atta butter roti	20
+hari mirchi ki roti	30
+naan	35
+naan( Garlic, tomato cheese ,kashmiri)	45/55/65
+missi roti	35
+lachchha paratha	35
+laal mirchi ka paratha	35
+pudina paratha	35
+kulcha( Aloo ,paneer ,veg)	45
+Bread basket	185

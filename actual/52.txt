@@ -1,0 +1,27 @@
+Chinese Soups
+Veg Manchow Soup	95
+Veg Hot & Sour Soup	95
+Veg Sweet Corn Soup	95
+Lemon Coriander Soup	95
+veg clear soup		95
+veg noodels soup	95
+
+Starter
+Paneer Kamlin		230
+Paneer dragon chilli	190
+chilli paneer		180
+paneer schezwan		180
+paneer 65		180
+paneer hot garlic	180
+paneer black papper	180
+veg ball in hot garlic	160
+veg manchurian dry	160
+veg lollipop		160
+veg kothe		160
+paldi potato		160
+chilli honey potato	160
+veg finger		160
+crispy corn		160
+mushroom chilli		180
+mushroom salt & pepper	180
+baby corn salt & pepper	180

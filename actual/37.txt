@@ -1,0 +1,24 @@
+Soup
+Tomato soup	95
+palak shorba	95
+talumein soup	95
+cream of tomato soup	95
+cream of spinach soup	130
+cream of mushroom soup	130
+
+Appetizer salad
+onion salad	35
+green salad	50
+cucumbar salad	50
+punjabi salad	50
+kachumar salad	60
+curd kachumar salad	80
+russian salad	90
+hukum sarkar salad	90
+peanut chat	90
+aloo chat	90
+corn chat	100
+
+Papad
+Roasted/fer papad	20
+Masala Papad	30

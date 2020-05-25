@@ -1,0 +1,12 @@
+Desserts
+Gulaab jamun	60
+Moong Dal Halwa (Seasonal)	80
+Gajar ka halwa (Seasonal)	70
+Vanilla ice cream	80
+Butterscotch ice cream	80
+chocolate ice cream	80
+paan ice cream	80
+mango ice cream	80
+strawberry ice cream	80
+tuti fruity ice cream	150
+gulab jamun with icecream	120

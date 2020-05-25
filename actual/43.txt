@@ -1,0 +1,24 @@
+Mumbai Pav Bhaji
+masala pav	INR 120
+butter pav bhaji	INR 130
+cheese masala pav	INR 140
+cheese butter pav bhaji	INR 150
+
+Desi Tadka
+veg keema masalawith pav	INR 130
+aloo & onion paratha combo - 2 pc	INR 130
+Paneer & onion paratha combo - 2 pc	INR 140
+Aloo & cheese paratha combo - 2pc	INR 150
+Paneer bhurji with pav	INR 150
+dal tadka	INR 150
+butter dal khichdi	INR 160
+aloo paratha & butter khichdi combo	INR 170
+veg biryani	INR 180
+dal tadka & jeera rice combo	INR 190
+veg makhani & laccha paratha	INR 190
+2 pcs (Maida/Wheat)
+paneer makhani & laccha paratha	INR 220
+2 pcs (Maida/Wheat)
+Extra laccha paratha Rs 30
+Extra Bhatura rs 20
+Extra Butter Pav Rs 10

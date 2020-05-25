@@ -1,0 +1,13 @@
+Salad
+Garden Fresh Green salad	75
+Russian salad	145
+fruit salad	155
+tandoori salad	175
+boiled veg	145
+biscuit chaat	115
+peanut chaat	115
+pasta salad	115
+
+Raita
+mint, veg, okra
+boondi, pineapple, fruit	115

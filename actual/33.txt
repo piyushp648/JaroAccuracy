@@ -1,0 +1,35 @@
+Kuch Thanda
+Soft drink	MRP + Sr. Charge
+Mineral water	MRP + Sr. Charge
+fresh lime	60
+punjabi lassi(salted)	50
+punjabi lassi(sweet)	60
+Flavored lassi	70
+(Mango / Strawberry / Chocolate / Litchi)
+Blue Lagoon	70
+Khus Cooler	70
+Kiwi Cooler	70
+Pink Lady	70
+Litchi Delight	70
+Pina Colada	70
+Fruit Punch	100
+
+Soup(Kuch Garam)
+Tomato Soup	70
+Manchow Soup	90
+Hot & Sour Soup	90
+Sweet Corn	80
+
+Tea/Coffee/Shakes
+Tea	40
+(Masala, Ginger, Elaichi)
+Ice tea	80
+Flavored ice tea	90
+(Kiwi, Strawberry, litchi, black current, mango)
+Hot coffee	40
+Cold coffee	80
+cold coffee with ice cream	100
+shakes	100
+(litchi ,chocolate ,strawberry ,mango,
+black current, pineapple)
+coke float	90

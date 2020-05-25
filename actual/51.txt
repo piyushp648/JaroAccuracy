@@ -1,0 +1,24 @@
+Accompaniments
+
+Steamrice	200	
+Jeerarice	240
+Roti, Butter roti,	60
+Garlic roti, chilly garlic roti	80
+naan, butter naan, garlic naan	70
+chilly garlic naan, chilly garlic cheese naan	90
+kulcha, butter kulcha	60
+vegetable kulcha, cheese kulcha	90
+aloo paratha, paneer paratha, cheese paratha	70
+laccha paratha, methi laccha paratha	70
+palak laccha paratha	80
+masala papad	150
+khichiya masala papad	180
+french fries	200
+masala french fries	220
+peri peri fries	220
+cheesy fries	240
+kheema fries	280
+butter chicken fries	280
+dahi	120
+vegtable raita/pineapple raita	140
+boondi raita	140

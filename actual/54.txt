@@ -1,0 +1,19 @@
+Breakfast----
+Boiled egg	7
+half fry	15
+benjo		20
+egg bhurgi	30
+omlette		30
+egg roll	30
+bread omlette	35
+egg paratha	25 . 
+egg cheese roll	40
+
+Bread & Paratha----
+Roti		5
+Butter Roti	6
+Aloo Paratha	15
+Onion Paratha	15
+Sev Paratha	15
+Paneer Paratha	30
+Cheese Paratah	30

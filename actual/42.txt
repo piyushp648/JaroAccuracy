@@ -1,0 +1,23 @@
+Soups
+Cream of tomato soup	INR 100
+veg clear soup	INR 100
+noodle soup	INR 100
+manchow soup	INR 110
+sweet corn soup	INR 110
+
+Starters and more
+french fries	INR 100
+(Per Peri / Mayonnaise / Cheese @ 20 extra)
+Smileys	INR 100
+(Per Peri / Mayonnaise / Cheese @ 20 extra)
+Corn Chatpata chaat	INR 120
+honey chilli potato	INR 140
+crispy corn	INR 140
+nachos cheese & salsa	INR 150
+cheese chilli toast	INR 160
+cheesy garlic bread	INR 160
+hara bhara kabab - 6 Pcs	INR 160
+paneer tikka masala	INR 170
+cheese corn balls - 6 Pcs	INR 180
+Cheese cigar rolls - 6 Pcs	INR 180
+Veg spring rolls	INR 190

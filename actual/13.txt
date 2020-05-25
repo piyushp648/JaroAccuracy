@@ -1,0 +1,17 @@
+Still & Sparkling Beverage
+kinley	49
+aerated beverage	79
+mineral water	109
+diet coke	109
+fresh lime	129
+fruit juice	149
+red bull	249
+sparkling water	249
+
+Hot & cold beverages
+espresso	85
+cafe americano	95
+cafe latte	130
+cappuccino	155
+cafe mocha	155
+cold coffee	220

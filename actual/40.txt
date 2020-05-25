@@ -1,0 +1,22 @@
+Indian Breads
+Tandoori plain	20
+Tandoori roti butter	25
+tawa roti	25
+tawa roti butter	30
+tawa paratha / missi roti	30
+naan	40
+butter naan	45
+garlic naan	60
+cheese naan	70
+cheese chilly garlic naan	70
+paneer paratha	90
+aloo paratha	60
+roomali roti	35
+laccha paratha	35
+bread basket	300
+
+Choice of Curd
+plain curd	80
+pineapple raita / fruit raita	140
+boondi raita / veg raita	110
+aloo pudina raita	110
