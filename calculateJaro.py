@@ -1,5 +1,6 @@
 import os
 from math import floor
+import re
 '''
 Add all the actual output in .\\actual folder
 all the observed output in .\\oberved folder
@@ -185,26 +186,31 @@ if __name__ == "__main__":
 
     # num_files = 2
 
-    files = os.listdir(".\\actual\\")
+    files = os.listdir(".\\observed\\")
     # getting list of files from actual dir only since
     # there's a file in observed corresponding to each file
     # in actual directory
     # accuracy = dict()
 
     output_file = open("accuracy.txt", "w+")
-
+    i = 1
     for file in files:
         if not file.endswith(".txt"):
             continue
         file1 = ".\\actual\\" + file
         file2 = ".\\observed\\" + file
-
-        s1 = open(file1).read().replace('\n', ' ').replace('\r', '')
-        s2 = open(file2).read().replace('\n', ' ').replace('\r', '')
+        try:
+            s1 = open(file1, encoding="utf-8").read()
+            s2 = open(file2, encoding="utf-8").read()
+        except IOError:
+            print(f'File {file} does not exist in one of the folders')
+            continue
+        s1 = re.sub(r'[^\x00-\x7F]+', ' ', s1)
+        s2 = re.sub(r'[^\x00-\x7F]+', ' ', s2)
 
         accuracy = jaro_Winkler(s1, s2)
-        output_file.write(file.split('.')[0] + " : " + str("{:.4f}".format(accuracy)))
-
+        output_file.write(str(i) + ". " + file.split('.')[0] + " : " + str("{:.4f}".format(accuracy)) + "\n")
+        i += 1
     output_file.close()
 
     # for item in accuracy:
