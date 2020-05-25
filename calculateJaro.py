@@ -191,7 +191,7 @@ if __name__ == "__main__":
     # there's a file in observed corresponding to each file
     # in actual directory
     # accuracy = dict()
-
+    sum = 0
     output_file = open("accuracy.txt", "w+")
     i = 1
     for file in files:
@@ -209,8 +209,11 @@ if __name__ == "__main__":
         s2 = re.sub(r'[^\x00-\x7F]+', ' ', s2)
 
         accuracy = jaro_Winkler(s1, s2)
+        sum += accuracy
         output_file.write(str(i) + ". " + file.split('.')[0] + " : " + str("{:.4f}".format(accuracy)) + "\n")
         i += 1
+
+    output_file.write(f'Mean Accuracy = {sum/i}')
     output_file.close()
 
     # for item in accuracy:
