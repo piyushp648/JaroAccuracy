@@ -1,0 +1,15 @@
+Cakes
+Vanilla Plain	180
+Vanilla with dry fruits	220
+chocolate plain	180
+chocolate with dry fruits	220
+whole wheat dry fruits cake	250
+walnut & dates cake	280
+coffee walnut	250
+marble(vanilla+chocolate)	250
+mocha(vanilla+chocolate+coffee)	280
+chocolate truffle	500
+special chocolate cake	300
+for chocolate layer	100
+cup cake	20
+extra dry fruits	40
