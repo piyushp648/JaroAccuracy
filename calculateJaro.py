@@ -181,8 +181,6 @@ if __name__ == "__main__":
 
     # s1 = open("36_actual.txt").read().replace('\n', ' ').replace('\r', '')
     # s2 = open("36_output.txt").read().replace('\n', ' ').replace('\r', '')
-    s1 = "jaro"
-    s2 = "jaro"
 
     # num_files = 2
 
@@ -200,8 +198,8 @@ if __name__ == "__main__":
         file1 = ".\\actual\\" + file
         file2 = ".\\observed\\" + file
         try:
-            s1 = open(file1, encoding="utf-8").read()
-            s2 = open(file2, encoding="utf-8").read()
+            s1 = open(file1, encoding="utf-8").read().replace('\n', ' ').replace('\r', '')
+            s2 = open(file2, encoding="utf-8").read().replace('\n', ' ').replace('\r', '')
         except IOError:
             print(f'File {file} does not exist in one of the folders')
             continue
